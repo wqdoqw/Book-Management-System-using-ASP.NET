@@ -1,0 +1,11 @@
+*.bin
+*.hex
+*.elf
+*.swp
+*~
+*.o
+*.a
+.svn
+.git
+.depend
+.classpath
